@@ -14,6 +14,8 @@ Notes: This package contains code samples for the Centrify Identity Service Plat
 4) psswdCheckIn.py
     - execute a password rotation event for a specified Privileged Account
     - perform a password check-in event for a specified Privileged Account
+    - REST calls to integrate with JIRA
+    - REST calls to integrate with ServiceNow
 
 5) config.ini
     - configuration variables
