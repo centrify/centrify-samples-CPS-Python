@@ -1,5 +1,11 @@
 # centrify-samples-CPS-Python
 
+# PUBLIC ARCHIVE
+
+> ***NOTE***
+> This repo is archived.
+> This is still available under the licensing terms, but is not being actively developed or updated any further. Please see [DelineaXPM](https://github.com/DelineaXPM) for active projects.
+
 Notes: This package contains code samples for the Centrify Identity Service Platform API's written in Python.
 
 1) getResources.py
